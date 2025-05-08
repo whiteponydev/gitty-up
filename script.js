@@ -1,3 +1,3 @@
 const demo = document.getElementById('demo')
 
-demo.style.color = 'pink'
+demo.style.color = 'green'
